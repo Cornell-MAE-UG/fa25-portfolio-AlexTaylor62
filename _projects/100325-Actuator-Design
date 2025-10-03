@@ -6,4 +6,5 @@ actuator (pick from the online catalog, use max force values only), design a
 frame/mechanism to lift the maximum possible weight to the highest possible height.
 Assume all the supports and bar/actuator are rigid.
 
-assets/images/Actuator-pivot.jpeg
+![Actuator Pivot Design](assets/images/Actuator-pivot.jpeg)
+
