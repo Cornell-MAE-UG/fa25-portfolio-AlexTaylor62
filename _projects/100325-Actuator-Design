@@ -1,3 +1,11 @@
+---
+layout: project
+title: Actuator Design
+description: Design mechanism to lift a load with an actuator
+technologies: [Calculator and python]
+image: assets/images/Actuator-pivot.jpeg
+---
+
 Below is a picture of my design of a mechanism to lift a load.
 
 Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length (your
